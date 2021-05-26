@@ -1,0 +1,14 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:black;
+    color: rgb(255, 0, 0);
+    font-family: Arial;
+}
+.title{
+padding-top: 25px;
+}
